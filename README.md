@@ -1,2 +1,2 @@
-# social_link
-Introdução do projeto.
+Python
+Introdução do projeto de python.
